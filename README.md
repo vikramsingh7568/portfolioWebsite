@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## rafce command used to make function and export automatic
+## using media query to make responsive navbar
+## using use state we can change the state of the icons here we are changing the state in fabars
 
 ## Available Scripts
 
